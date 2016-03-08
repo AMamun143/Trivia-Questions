@@ -1,0 +1,16 @@
+#main-quiz-holder { 
+    margin: 0 auto; 
+    text-align: center;
+    position: relative;background: #FCFCFC; 
+    border:1px solid #dedede; 
+     box-shadow:0 1px 5px #D9D9D9,inset 0 10px 20px #F1F1F1; 
+     -o-box-shadow:0 1px 5px #D9D9D9,inset 0 10px 20px #F1F1F1; 
+     -webkit-box-shadow:0 1px 5px #D9D9D9,inset 0 10px 20px #F1F1F1; 
+     -moz-box-shadow:0 1px 5px #D9D9D9,inset 0 10px 20px #F1F1F1; 
+     border-radius: 2px; 
+     position: relative; 
+     width: 600px; 
+     font-family:  "Myriad", "Myriad Pro", "Helvetica","Segoe UI", "Lucida Sans Unicode", "Lucida Grande", sans-serif; 
+} 
+#main-quiz-holder a { 
+    text-decoration: none; 
